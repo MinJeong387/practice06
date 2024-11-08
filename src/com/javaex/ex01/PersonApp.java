@@ -10,7 +10,7 @@ public class PersonApp {
 		p.showInfo();
 		s.showInfo();
 	
-		// 수정
+		// 수정완료
 	}
 
 }
