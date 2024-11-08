@@ -15,6 +15,6 @@ public class Customer extends Person {
 	public void showInfo() {
 
 		System.out.println("#이름:" + name + ", #핸드폰:" + hp + ", #고객번호:" + cNo + ", #포인트점수:" + point);
-	} //수정합
+	} 
 }
 
